@@ -32,3 +32,14 @@ JavaScript, React, HTML, CSS, and mobile responsive web development, as well as 
         return true;
         }
 ```
+#### EXPERIENCE
+
+* **03.2014 – 05.2017**
+    **Company:** Sales Manago
+	**Position:** Junior Front End Developer Developer
+	**Responsibilities:**
+	* Develop a front-end part of newsletters, pop-up windows, dynamics e-mails, contact forms
+    * Modifying codes send from the client, creating graphic of newsletters, pop-ups, emails
+* **03.2019 – now**
+    **Udemy:** Front End Courses
+    **FrontendMasters:** Deep JavaScript

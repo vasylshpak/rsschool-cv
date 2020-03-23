@@ -44,7 +44,7 @@ JavaScript, React, HTML, CSS, and mobile responsive web development, as well as 
     **Udemy:** Front End Courses
     **FrontendMasters:** Deep JavaScript
 
-    #### EDUCATION
+#### EDUCATION
 * **10.2014– 01.2018** WSIIZ Rzeszów, no-Deegre, Economy
 
 #### LANGUAGES
